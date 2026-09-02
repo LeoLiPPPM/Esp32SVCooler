@@ -6,7 +6,7 @@ The software for SVCooler!
 
 # Notes
 
-This code is not functional. Use for reference only. Including both WifiManager and BluetoothSerial requires too much memory. Use one or the other, and not both at once. 
+This code is not functional. Use for reference only. Including both WifiManager and BluetoothSerial requires too much memory. Use one or the other, and not both at once. Please contact Leo at leo_li@berkeley.edu for inquiry into testing functionality.
 
 # Build Instruction
 
